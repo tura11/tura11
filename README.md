@@ -52,7 +52,7 @@ Blockchain developer with a passion for building **real, working projects**. No 
 - Auto-compounding strategies
 - Security audited
 
-**Tech:** Solidity, Hardhat, Ethers.js
+**Tech:** Solidity, Foundry, Ethers.js
 
 </td>
 </tr>
@@ -68,60 +68,18 @@ Blockchain developer with a passion for building **real, working projects**. No 
 - Claim verification
 - Web3 frontend integration
 
-**Tech:** TypeScript, Hardhat, React
+**Tech:** TypeScript, Foundry, React
 
 </td>
 <td width="50%">
 
-### 🎮 Chicken Attack
-**Full-stack multiplayer game**
 
-- Real-time multiplayer mechanics
-- WebSocket communication
-- Custom game engine
-- Express backend + React frontend
-
-**Tech:** React, Express, WebSocket, Vite
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗺️ Procedural Map Generator
-**Terrain generation system**
-
-- Perlin noise algorithms
-- Biome generation
-- Interactive visualization
-- Customizable parameters
-
-**Tech:** JavaScript, Canvas API
-
-</td>
-<td width="50%">
-
-### 🤖 AI-Powered Tools
-**Claude API integration projects**
-
-- RAG chatbots
-- Document analysis
-- Custom AI workflows
-- API automation
-
-**Tech:** TypeScript, Claude API, React
-
-</td>
-</tr>
-</table>
 
 ## 💻 Tech Stack
 
 ### Blockchain & Smart Contracts
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
@@ -131,7 +89,6 @@ Blockchain developer with a passion for building **real, working projects**. No 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -139,17 +96,6 @@ Blockchain developer with a passion for building **real, working projects**. No 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tura11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Streak](https://streak-stats.demolab.com/?user=tura11&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tura11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
 
 ## 🏆 Achievements
 
@@ -185,42 +131,7 @@ const achievements = {
 - ✅ Gas optimization techniques
 - ✅ Security best practices
 - ✅ Foundry testing (unit, fuzz, invariant)
-- ✅ Hardhat deployment & scripting
 
-</details>
-
-<details>
-<summary><b>⚛️ Full-Stack Development (Advanced)</b></summary>
-
-- ✅ React + TypeScript
-- ✅ Modern build tools (Vite, Webpack)
-- ✅ State management (Context, custom hooks)
-- ✅ RESTful APIs & WebSocket
-- ✅ Node.js backend architecture
-- ✅ Database integration (SQL, NoSQL)
-
-</details>
-
-<details>
-<summary><b>🎮 Game Development (Intermediate)</b></summary>
-
-- ✅ Canvas API & rendering
-- ✅ Game loops & physics
-- ✅ Multiplayer networking
-- ✅ State synchronization
-- ✅ Procedural generation algorithms
-
-</details>
-
-<details>
-<summary><b>🤖 AI Integration (Learning)</b></summary>
-
-- ✅ Claude API workflows
-- ✅ RAG implementations
-- ✅ Document processing
-- ✅ Custom AI tools
-
-</details>
 
 ## 🔥 Current Focus
 
@@ -231,9 +142,7 @@ const achievements = {
 
 ## 📫 Connect
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tura11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tura11)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tura11.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymoteusz-uramek-0b38b2349/)
 
 ---
 
