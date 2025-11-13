@@ -11,7 +11,6 @@ Blockchain developer with a passion for building **real, working projects**. No 
 - 🏗️ Specialization: **Smart Contracts** (Solidity) + **Full-Stack Web3**
 - ⚡ Stack: Foundry, Hardhat, React, TypeScript, Node.js
 - 🧪 Testing: Unit tests, fuzz tests, integration tests
-- 🎮 Side projects: Games (multiplayer real-time), AI tools, procedural generators
 
 ## 💻 Tech Stack
 
