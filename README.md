@@ -1,84 +1,250 @@
-<img src="https://github.com/tura11/tura11/blob/main/banner.png?raw=true" alt="TymekU - Blockchain Dev" width="100%"/>
+# 🔥 Full-Stack Blockchain Developer
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=200&section=header&text=tura11&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Developer {
+    string public constant NAME = "tura11";
+    string public constant ROLE = "Full-Stack Blockchain Engineer";
+    
+    function getSkills() public pure returns (string[] memory) {
+        return ["Smart Contracts", "DeFi", "Full-Stack", "Game Dev"];
+    }
+}
+```
+
+## 🎯 About Me
+
+Deweloper blockchain z pasją do budowania **rzeczywistych, działających projektów**. Nie robię tutoriali - buduję produkcyjny kod z własnymi rozwiązaniami.
+
+- 🏗️ Specjalizacja: **Smart Contracts** (Solidity) + **Full-Stack Web3**
+- ⚡ Stack: Foundry, Hardhat, React, TypeScript, Node.js
+- 🧪 Testing: Unit tests, fuzz tests, integration tests
+- 🎮 Side projects: Gry (Chicken Attack), narzędzia AI, proceduralne generatory
+
+## 🚀 Flagship Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 [StableCoin](https://github.com/tura11/StableCoin)
+**Algorytmiczny stablecoin od zera**
+
+- Własny mechanizm stabilizacji
+- Collateral ratio management
+- Liquidation engine
+- Pełne pokrycie testami (unit + fuzz)
+
+**Tech:** Solidity, Foundry, OpenZeppelin
+
+</td>
+<td width="50%">
+
+### 🌾 [YieldFarmingVault](https://github.com/tura11/YieldFarmingVault)
+**DeFi yield aggregator**
+
+- Staking mechanism
+- Reward distribution
+- Auto-compounding strategies
+- Security audited
+
+**Tech:** Solidity, Hardhat, Ethers.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎁 [TokenAirdropper](https://github.com/tura11/TokenAirdropper)
+**Gas-efficient airdrop system**
+
+- Merkle tree proof system
+- Batch distribution
+- Claim verification
+- Web3 frontend integration
+
+**Tech:** TypeScript, Hardhat, React
+
+</td>
+<td width="50%">
+
+### 🎮 Chicken Attack
+**Full-stack multiplayer game**
+
+- Real-time multiplayer
+- WebSocket communication
+- Custom game engine
+- Express backend + React frontend
+
+**Tech:** React, Express, WebSocket, Vite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗺️ Procedural Map Generator
+**Terrain generation system**
+
+- Perlin noise algorithms
+- Biome generation
+- Interactive visualization
+- Customizable parameters
+
+**Tech:** JavaScript, Canvas API
+
+</td>
+<td width="50%">
+
+### 🤖 AI-Powered Tools
+**Claude API integration projects**
+
+- RAG chatbots
+- Document analysis
+- Custom AI workflows
+- API automation
+
+**Tech:** TypeScript, Claude API, React
+
+</td>
+</tr>
+</table>
+
+## 💻 Tech Stack
+
+### Blockchain & Smart Contracts
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/tura11/tura11/blob/main/avatar.jpg?raw=true" width="170" style="border-radius:50%; border:6px solid #fff; box-shadow:0 0 30px rgba(0,183,255,0.5);"/>
   
-  <h1><strong>TymekU</strong> • Blockchain Engineer</h1>
-  
-  <p>
-    <strong>Smart Contract Developer • Solidity • Foundry • Hardhat</strong>
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=tura11&color=00b7ff&style=flat-square" />
-    <img src="https://img.shields.io/github/followers/tura11?label=Followers&style=social" />
-  </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tura11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tura11&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tura11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
+
+## 🏆 Achievements
+
+```javascript
+const achievements = {
+  smartContracts: {
+    deployed: "15+",
+    tested: "100% coverage",
+    audited: "Self-audited",
+    gasOptimized: true
+  },
+  fullStack: {
+    projects: "20+",
+    techStack: ["React", "Express", "WebSocket", "Vite"],
+    deployment: "Production-ready"
+  },
+  learning: {
+    mode: "continuous",
+    focus: "DeFi protocols & Advanced Solidity patterns",
+    nextGoal: "Multi-chain deployment"
+  }
+};
+```
+
+## 🎓 Skills Breakdown
+
+<details>
+<summary><b>🔗 Blockchain Development (Expert)</b></summary>
+
+- ✅ Smart Contract architecture & design patterns
+- ✅ ERC standards (ERC20, ERC721, ERC1155)
+- ✅ DeFi protocols (AMM, Lending, Staking)
+- ✅ Gas optimization techniques
+- ✅ Security best practices
+- ✅ Foundry testing (unit, fuzz, invariant)
+- ✅ Hardhat deployment & scripting
+
+</details>
+
+<details>
+<summary><b>⚛️ Full-Stack Development (Advanced)</b></summary>
+
+- ✅ React + TypeScript
+- ✅ Modern build tools (Vite, Webpack)
+- ✅ State management (Context, custom hooks)
+- ✅ RESTful APIs & WebSocket
+- ✅ Node.js backend architecture
+- ✅ Database integration (SQL, NoSQL)
+
+</details>
+
+<details>
+<summary><b>🎮 Game Development (Intermediate)</b></summary>
+
+- ✅ Canvas API & rendering
+- ✅ Game loops & physics
+- ✅ Multiplayer networking
+- ✅ State synchronization
+- ✅ Procedural generation algorithms
+
+</details>
+
+<details>
+<summary><b>🤖 AI Integration (Learning)</b></summary>
+
+- ✅ Claude API workflows
+- ✅ RAG implementations
+- ✅ Document processing
+- ✅ Custom AI tools
+
+</details>
+
+## 🔥 Current Focus
+
+- 📚 Zaawansowane wzorce DeFi (flash loans, MEV)
+- 🔐 Security auditing & formal verification
+- 🌉 Cross-chain bridges & Layer 2 solutions
+- 🎯 Building production-ready dApps
+
+## 📫 Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tura11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tura11)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tura11.dev)
 
 ---
 
-## Obecnie buduję w Web3
+<div align="center">
 
-```yaml
-Solidity Smart Contracts     ████████████████████ 95%
-Foundry / Hardhat Testing    ████████████████▒▒▒▒ 80%
-DeFi Protocols               █████████████░░░░░░░ 70%
-Token Standards (ERC20/721)  ████████████████████ 98%
-Najważniejsze projekty
+### 💭 Developer Philosophy
 
+*"Ship code, not excuses. Every project teaches something new."*
 
+![Profile Views](https://komarev.com/ghpvc/?username=tura11&color=blueviolet&style=for-the-badge)
 
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ProjektOpisTech StackLinkStableCoinWłasny algorytmiczny stablecoinSolidity, FoundryGitHubYieldFarmingVaultStaking + nagrody za farmingSolidity, OpenZeppelinGitHubTokenAirdropperMasowe rozdawanie tokenów (Merkle)TypeScript, Hardhat, EthersGitHub
-Wszystkie projekty testowane unit + fuzz testami (Foundry)
-Statystyki GitHub
-
-  https://github-readme-stats.vercel.app/api?username=tura11&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true
-  https://github-readme-streak-stats.herokuapp.com/?user=tura11&theme=react&hide_border=true
-
-
-  https://github-readme-stats.vercel.app/api/top-langs/?username=tura11&layout=compact&theme=react&hide_border=true&langs_count=8
-
-Trofea
-trophy
-Tech Stack
-
-  https://skillicons.dev/icons?i=solidity,js,ts,hardhat,foundry,ethers,react,nodejs,git,github,vscode
-
-Connect
-
-  https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-  https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-
-
-
-  https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,2,5,30&height=150&section=footer&text=&fontSize=0
-
-```
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=100&section=footer)
