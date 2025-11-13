@@ -2,23 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=200&section=header&text=tura11&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
-contract Developer {
-    string public constant NAME = "tura11";
-    string public constant ROLE = "Full-Stack Blockchain Engineer";
-    
-    function getSkills() public pure returns (string[] memory) {
-        return ["Smart Contracts", "DeFi", "Full-Stack", "Game Dev"];
-    }
-}
-```
-
 ## 🎯 About Me
 
 Blockchain developer with a passion for building **real, working projects**. No tutorials - I build production code with custom solutions.
+
+**📅 Daily commits since October 6th, 2025** - Building in public, shipping consistently.
 
 - 🏗️ Specialization: **Smart Contracts** (Solidity) + **Full-Stack Web3**
 - ⚡ Stack: Foundry, Hardhat, React, TypeScript, Node.js
@@ -93,6 +81,16 @@ Blockchain developer with a passion for building **real, working projects**. No 
 
 </td>
 <td width="50%">
+
+### 💰 [FoundryCrowdFunding](https://github.com/tura11/FoundryCrowdFunding)
+**Decentralized crowdfunding platform**
+
+- Campaign creation & management
+- Deadline-based funding goals
+- Automatic refund mechanism
+- Full Foundry test suite
+
+**Tech:** Solidity, Foundry, OpenZeppelin
 
 </td>
 </tr>
