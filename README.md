@@ -18,12 +18,12 @@ contract Developer {
 
 ## 🎯 About Me
 
-Deweloper blockchain z pasją do budowania **rzeczywistych, działających projektów**. Nie robię tutoriali - buduję produkcyjny kod z własnymi rozwiązaniami.
+Blockchain developer with a passion for building **real, working projects**. No tutorials - I build production code with custom solutions.
 
-- 🏗️ Specjalizacja: **Smart Contracts** (Solidity) + **Full-Stack Web3**
+- 🏗️ Specialization: **Smart Contracts** (Solidity) + **Full-Stack Web3**
 - ⚡ Stack: Foundry, Hardhat, React, TypeScript, Node.js
 - 🧪 Testing: Unit tests, fuzz tests, integration tests
-- 🎮 Side projects: Gry (Chicken Attack), narzędzia AI, proceduralne generatory
+- 🎮 Side projects: Games (multiplayer real-time), AI tools, procedural generators
 
 ## 🚀 Flagship Projects
 
@@ -32,12 +32,12 @@ Deweloper blockchain z pasją do budowania **rzeczywistych, działających proje
 <td width="50%">
 
 ### 🏦 [StableCoin](https://github.com/tura11/StableCoin)
-**Algorytmiczny stablecoin od zera**
+**Algorithmic stablecoin from scratch**
 
-- Własny mechanizm stabilizacji
+- Custom stabilization mechanism
 - Collateral ratio management
 - Liquidation engine
-- Pełne pokrycie testami (unit + fuzz)
+- Full test coverage (unit + fuzz)
 
 **Tech:** Solidity, Foundry, OpenZeppelin
 
@@ -76,7 +76,7 @@ Deweloper blockchain z pasją do budowania **rzeczywistych, działających proje
 ### 🎮 Chicken Attack
 **Full-stack multiplayer game**
 
-- Real-time multiplayer
+- Real-time multiplayer mechanics
 - WebSocket communication
 - Custom game engine
 - Express backend + React frontend
@@ -143,9 +143,9 @@ Deweloper blockchain z pasją do budowania **rzeczywistych, działających proje
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tura11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tura11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tura11&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=tura11&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tura11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -224,7 +224,7 @@ const achievements = {
 
 ## 🔥 Current Focus
 
-- 📚 Zaawansowane wzorce DeFi (flash loans, MEV)
+- 📚 Advanced DeFi patterns (flash loans, MEV)
 - 🔐 Security auditing & formal verification
 - 🌉 Cross-chain bridges & Layer 2 solutions
 - 🎯 Building production-ready dApps
