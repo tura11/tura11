@@ -1,7 +1,8 @@
 # 🔥 Full-Stack Blockchain Developer
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=200&section=header&text=tura11&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tura11/tura11/main/logo.png" width="550" alt="Tura11 Logo"/>
+</p>
 ## 🎯 About Me
 
 Blockchain developer with a passion for building **real, working projects**. No tutorials - I build production code with custom solutions.
