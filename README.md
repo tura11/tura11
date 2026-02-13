@@ -1,7 +1,7 @@
 # 🔥 Full-Stack Blockchain Developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tura11/tura11/main/logo.png" width="550" alt="Tura11 Logo"/>
+  <img src="https://raw.githubusercontent.com/tura11/tura11/main/logo2.png" width="550" alt="Tura11 Logo"/>
 </p>
 ## 🎯 About Me
 
